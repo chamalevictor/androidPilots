@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+// This is a git Test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
