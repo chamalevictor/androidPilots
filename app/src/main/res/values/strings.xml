@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Easy Chords</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="login_button">Login</string>
+    <string name="search_content">Buscar Alabanzas</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+
 </resources>
